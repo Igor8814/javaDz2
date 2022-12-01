@@ -1,5 +1,5 @@
 Семинар 2 Дз 2
-~~~
+```java
 package java_program;
 
 public class program2 {
@@ -79,4 +79,4 @@ public class program2 {
         System.out.println(str);
     }           
 }
-~~~
+```
